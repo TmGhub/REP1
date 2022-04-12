@@ -1,3 +1,1 @@
-# REP1
-2.sor
-3.sor
+http://math.bme.hu/~balazs/git/gitcml.html
